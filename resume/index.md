@@ -7,7 +7,7 @@ excerpt:
 tags: [about, personal, resume]
 ---
 
-# Education
+## Education
 
 **University of Toronto**
 **Bachelor of Applied Science** in **Industrial Engineering** (2010 - 2015)
@@ -15,7 +15,7 @@ tags: [about, personal, resume]
  - Recent GPA: 3.70 – Dean’s Honor List (82% average)
  - Specialized in Information System with a Business minor
 
-# Experience
+## Experience
 
 [**OANDA**](http://www.oanda.com/)
 **Web Application Developer Co-op** (May 2014 - August 2014)
@@ -33,7 +33,7 @@ tags: [about, personal, resume]
  - Optimized the application by implementing AJAX calls to improve user experience
  - Utilized WebSphere Message Broker on WebSphere MQ server to process messages from client
 
-# Projects
+## Projects
 
 **Arbitrageurs**
 **RBC Next Great Innovator Challenge – Prototyping** (June 2013)
