@@ -3,7 +3,6 @@ layout: page
 title: About Me
 tags: [about, personal]
 modified: 2014-11-16T15:13:31-0500
-comments: true
 ---
 
 
