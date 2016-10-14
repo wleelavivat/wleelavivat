@@ -1,0 +1,28 @@
+# Site settings
+url: http://localhost:4000
+
+# Site author
+author:
+  google:
+    ad-client: ""
+    ad-slot: ""
+    analytics: ""
+    verify: ""
+  bing:
+    verify: ""
+  alexa:
+    verify: ""
+  yandex:
+    verify: ""
+disqus-shortname: ""
+
+# Build settings
+future: true
+show_drafts: true
+sass:
+  style: expanded
+
+# Compress HTML in Jekyll
+compress_html:
+  ignore:
+    envs: production
